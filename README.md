@@ -14,6 +14,7 @@ In general the following are excellent resources:
 + [Models, Inference, & Algorithms](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms) at the Broad Institute of MIT and Harvard has slide decks and a growing [playlist](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS) on machine learning for biomedical research.
 
 ## 2019
++ [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/videos/?ref=page_internal)
 + [AAAI Conference on Artificial Intelligence](https://videos.videoken.com/index.php/videoscategory/aaai-2019/)
 
 ## 2018
