@@ -22,6 +22,9 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://vimeo.com/channels/naacl2018)
++ [Empirical Methods on Natural Language Processing](https://vimeo.com/channels/1427394)
++ [Annual Meeting of the Association for Computational Linguistics](https://vimeo.com/showcase/5391494)
 + [Neural Information Processing Systems Workshop, Security in Machine Learning](https://www.youtube.com/playlist?list=PLFG9vaKTeJq4IpOje38YWA9UQu_COeNve)
 + [Neural Information Processing Systems - Tutorials, Spotlights and Posters](https://nips.cc/Conferences/2018/Videos)
 + [International Conference on Probabilistic Programming](https://www.youtube.com/playlist?list=PL_PW0E_Tf2qvXBEpl10Y39RULTN-ExzZQ)
@@ -43,6 +46,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Annual Meeting of the Association for Computational Linguistics](https://vimeo.com/channels/acl2017)
 + Montreal AI Symposium [[Morning Session]](https://www.youtube.com/watch?v=02xIkHowQOk) [[Afternoon Session]](https://www.youtube.com/watch?v=cdcKwefTT6M)
 + [AAAI Conference on Artificial Intelligence](http://videolectures.net/aaai2017_sanfrancisco/)
 + [Annual Meeting of the Cognitive Science Society](https://cogsci.tv/category/cogsci2017/) (pswd:cogscitv)
@@ -58,7 +62,7 @@ In general the following are excellent resources:
 + [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 + [Cognitive Computational Neuroscience](http://ccneuro.org/2017videos/)
 + [Gaussian Process Summer School, Sheffield](http://gpss.cc/gpss17/program)
-+ [Empirical Methods on Natural Language Processing](https://ku.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%229042b495-7b6b-4169-a5a1-d250cc0ee4ec%22)
++ [Empirical Methods on Natural Language Processing](https://vimeo.com/channels/emnlp2017)
 + [Deep Learning Summer School and Reinforcement Learning Summer School, Montreal](http://videolectures.net/deeplearning2017_montreal/)
 + [Computer Vision and Pattern Recognition - Spotlights, Orals and Tutorials](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 + [GPU Technology Conference](http://on-demand-gtc.gputechconf.com/gtc-quicklink/g6VqzTi)
@@ -71,6 +75,7 @@ In general the following are excellent resources:
 
 ## 2016
 
++ [Empirical Methods on Natural Language Processing](https://vimeo.com/channels/emnlp2016)
 + [AAAI Conference on Artificial Intelligence](http://videolectures.net/aaai2016_phoenix/)
 + [European Conference on Computer Vision](http://videolectures.net/eccv2016_amsterdam/)
 + [Computer Vision and Pattern Recognition](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
@@ -93,6 +98,7 @@ In general the following are excellent resources:
 
 ## 2015
 
++ [Empirical Methods on Natural Language Processing](https://vimeo.com/channels/emnlp2015)
 + [Computer Vision and Pattern Recognition](http://techtalks.tv/cvpr/2015/)
 + [International Conference on Computer Vision](http://videolectures.net/iccv2015_santiago/)
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2015/Schedule)
