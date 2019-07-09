@@ -15,9 +15,9 @@ In general the following are excellent resources:
 
 ## 2019
 
-+ [International Conference on Machine Learning](https://www.facebook.com/pg/icml.imls/videos/)
++ [International Conference on Machine Learning](https://www.facebook.com/pg/icml.imls/videos/) [Alternate](https://slideslive.com/icml)
 + [Learning for Dynamics and Control](https://l4dc.mit.edu/videos/)
-+ [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/videos/?ref=page_internal)
++ [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/videos/?ref=page_internal) [Workshops](https://slideslive.com/iclr/)
 + [AAAI Conference on Artificial Intelligence](https://videos.videoken.com/index.php/videoscategory/aaai-2019/)
 
 ## 2018
