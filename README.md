@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2019
 
++ Conference on Computer Vision and Pattern Recognition ([Oral Session](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos))
 + [International Conference on Machine Learning](https://www.facebook.com/pg/icml.imls/videos/), alternate link ([[1]](https://slideslive.com/icml))
 + [Learning for Dynamics and Control](https://l4dc.mit.edu/videos/)
 + [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/videos/?ref=page_internal)
