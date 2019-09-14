@@ -24,6 +24,7 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [Cognitive Computational Neuroscience](https://ccneuro.org/2018/videos.asp)
 + [Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://vimeo.com/channels/naacl2018)
 + [Empirical Methods on Natural Language Processing](https://vimeo.com/channels/1427394)
 + [Annual Meeting of the Association for Computational Linguistics](https://vimeo.com/showcase/5391494)
