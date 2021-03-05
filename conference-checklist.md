@@ -1,0 +1,24 @@
+## List of conferences 2020
+- [ ] EMLP
+- [ ] ACL
+- [ ] NAACL
+- [ ] CCN
+- [ ] NeurIPS
+- [x] COLT
+- [x] ICML
+- [x] ICLR
+- [x] AAAI
+- [ ] IJCAI
+- [x] CVPR
+- [ ] ICCV
+- [ ] ECCV
+- [ ] WACV
+- [ ] International Conference on Probabilistic Programming
+- [ ] Deep|Bayes – Summer school on Deep Learning and Bayesian Methods, Moscow
+- [ ] Deep Learning Summer School and Reinforcement Learning Summer School, Toronto
+- [ ] Montreal AI Symposium
+- [ ] CogSci
+- [ ] Data, Learning, and Inference
+- [ ] TensorFlow Dev Summit
+- [ ] Scaled Machine Learning
+- [ ] SysML Conference
